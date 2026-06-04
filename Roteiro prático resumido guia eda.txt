@@ -1,0 +1,13 @@
+Roteiro prático resumido
+1.Definir pergunta.
+2.Identificar unidade de análise.
+3.Verificar estrutura da base.
+4.Limpar e padronizar dados.
+5.Calcular mínimo, máximo, mediana e quartis.
+6.Fazer boxplots e histogramas.
+7.Detectar outliers.
+8.Comparar grupos.
+9.Analisar tendência temporal.
+10.Criar hipóteses.
+11.Testar ou aprofundar.
+12.Comunicar os achados.
